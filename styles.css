@@ -6,7 +6,7 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 h1{
-    margin: 50px auto 0 auto;
+    margin: 3.125rem auto 0 auto;
     font-size: 4.5rem;
     color:#66BFBF;
     font-family:  'NTR', sans-serif;
@@ -26,7 +26,7 @@ a{
     color: #11999E;
     text-decoration: solid;
     font-family: 'Montserrat',sans-serif;
-    margin: 10px 20px;
+    margin: 0.625rem 1.25rem;
 }
 a:hover{
     color: #EAF6F6;
@@ -49,11 +49,11 @@ p{
 .top{
     background-color: #EAF6F6;
     
-    padding-top: 100px;
+    padding-top: 6.25rem;
     position: relative;    
 }
 .middle-container{
-    margin: 100px 0;
+    margin: 6.25rem 0;
 }
 .bottom-container{
     background-color: #66BFBF;
@@ -99,7 +99,7 @@ p{
     
 }
 .profile{
-    margin:50px auto;
+    margin:3.125rem auto;
     width:60%;
     line-height: 2;
     
